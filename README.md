@@ -13,10 +13,12 @@
 - Employees with low income are more likely to leave, despite some high-satisfaction, high-WLB groups also showing attrition.
 
 **III. Dashboard**
-KPI Over view & Who is leaving
-![Dashboard Page 1](Dashboard1.png)
-Why they leave
-![Dashboard Page 2](Dashboard2.png)
+
+_**KPI Over view & Who is leaving**_
+![Dashboard Page 1](Page1.png)
+_**Why they leave**_
+
+![Dashboard Page 2](Page2.png)
 
 **IV. About Me**
 Hi, I'm Navin – an aspiring Data Analyst passionate about turning raw data into actionable business insights.
