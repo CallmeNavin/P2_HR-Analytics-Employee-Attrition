@@ -11,3 +11,5 @@ Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition
 - Employees with low income are more likely to leave, despite some high-satisfaction, high-WLB groups also showing attrition.  
   **III. Dashboard**
 KPI Over view & Who is leaving
+[Dashboard Page 1]1. KPI Overview & Who is Leaving.png
+[Dashboard Page 2] 2. Why Employees Leave.png
