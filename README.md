@@ -16,10 +16,10 @@
 **III. Dashboard**
 
 _**KPI Over view & Who is leaving**_
-![Dashboard Page 1](Page1.png)
+![Dashboard Page 1](Dashboard/Page1.png)
 _**Why they leave**_
 
-![Dashboard Page 2](Page2.png)
+![Dashboard Page 2](Dashboard/Page2.png)
 
 **IV. About Me**
 Hi, I'm Navin – an aspiring Data Analyst passionate about turning raw data into actionable business insights.
