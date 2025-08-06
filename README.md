@@ -5,6 +5,7 @@
 - The dataset contain 1,470 employee records from IBM HR Analytics dataset.
 [IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 - Tool used: Python for EDA & Feature Engineering. Power BI for dashboarding and visualization.
+- Project Workflow: Raw Data → EDA & Feature Engineering (Python) → Clean Data CSV → Power BI Dashboard → Insights
   
 **II. Key Insights**
 - Overall attrition rate is 16.1%, while the average tenure is over 7 years.  
