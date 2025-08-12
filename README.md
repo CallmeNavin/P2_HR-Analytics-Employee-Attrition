@@ -22,6 +22,7 @@ _**Why they leave**_
 ![Dashboard Page 2](Dashboard/Page2.png)
 
 **IV. About Me**
+
 Hi, I'm Navin – an aspiring Data Analyst passionate about turning raw data into actionable business insights.
 In this project, I performed **EDA, feature engineering, and dashboard storytelling** to demonstrate HR analytics skills.  
 - 📊 Skills: SQL, Python, Power BI.  
