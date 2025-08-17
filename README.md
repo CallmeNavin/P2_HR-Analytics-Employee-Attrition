@@ -3,7 +3,10 @@
 **A. Project Overview**
 
 - This project analyzes employee attrition in X company.
-- The focus is on identifying key risk factors and support HR improve retention.
+- The focus is on identifying key risk factors and providing actionable insights to support HR in improving retention.
+
+![Dashboard Overview](Dashboard/Overview.png)
+_Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
 
@@ -16,7 +19,7 @@
 
 **Period**
 
-This Dataset is updated 08 years ago.
+This dataset was last updated around 8 years ago, and reflects historical HR patterns rather than current trends.
 
 **C. Methodology**
 
@@ -26,29 +29,34 @@ Data Cleaning (Python) → Descriptive Analysis → Actionable Insights
 
 **Key Findings**
 
-- Overall attrition rate is 16.1%, while the average tenure is over 7 years → Ít nhân sự lâu năm --> Phúc lợi công ty có vấn đề
-- R&D is the department which has the highest number of employees (65.37%), however attrition rate of this department is also high too
+- Overall attrition rate 16.1%, average tenure ~7 years → few long-tenured staff, hinting at weak retention/benefits.
+- R&D holds the largest share of employees (65%)
 - Employees is mainly get married (45.78%)
-- Nhân viên chủ yếu là nhà gần
-- Trình độ học vấn phần lớn ở mức 3/5
-- Phần lớn NV chỉ làm ở 1 công ty (nghĩa là trước đây không làm công ty khác). Vậy công ty X này là nhận fresher đào tạo rồi cho nên phần lớn level nhân viên chỉ ở mức 1, 2
-- Employees with lower Engagement Score is more likely to leave (2.77 > 2.54).
-- Employees who worked overtime is more likely to leave (74.52%) → Emergency
-- Nguy cơ nghỉ việc cao nhất ở nhóm NV mới vào (0 - 2 years)
-- Attrition rate tăng khi NV sau 5 năm không được thăng chức
-- Thời gian làm việc với quản lý càng lâu thì càng giảm tỷ lệ nghỉ việc
+- Employees with lower engagement scores are more likely to leave; strong manager–employee relationships reduce attrition.
+- High-risk groups include new hires (<2 years) and employees with 5+ years without promotion; however, the most alarming is overtime staff, with an attrition rate of 74.5% - an urgent issue that requires immediate action.
 
 **Actionable Plans**
 
-- Đào sâu phúc lợi công ty (các chỉ số liên quan:
+- Short-term Goal (Emergency):
+  + Improve efficiency through process optimization and targeted training to help employees work smarter, more efficient.
+  + Conduct headcount balancing to identify workload concentration and reallocate or hire additional staff if needed.
+  + Quick wins: implement fair shift scheduling to avoid chronic overtime within certain teams.
+- Enhance Engagement Score factors:
+  + Environment Satisfaction, Job Satisfaction & Relationship Satisfaction:
+    Improve workplace conditions and overall employee experience.
+    Regularly gather feedback and align tasks with employee strengths.
+    Foster positive team dynamics and strengthen manager - employee communication.
+    Introduce internal mobility programs, allowing employees to transfer across departments instead of leaving.
+  + Work–Life Balance: Enforce fair workload distribution and flexible arrangements where possible.
+  + Job Involvement: Increase role clarity and recognition to boost employee commitment.
+- Promotion & Career Growth:
+  + Review and adjust promotion cycles/range to ensure employees see a clear path for career advancement.
+  + Hold managers accountable for talent development by tying part of their KPIs to team promotion, training, and retention metrics.
 
-**E. Visualization**
+**E. About Me**
 
-[Dashboard Overview](Dashboard/Overview.png)
-
-**F. About Me**
-
-Hi, I'm Navin (Bao Vy) – an aspiring Data Analyst passionate about turning raw data into actionable business insights. For more details, please reach out at: 
+Hi, I'm Navin (Bao Vy) – an aspiring Data Analyst passionate about turning raw data into actionable business insights. I’m eager to contribute to data-driven decision making and help organizations translate analytics into business impact. 
+For more details, please reach out at: 
 
 - 📊 Skills: SQL, Python, Power BI.  
 - 🌐 LinkedIn: https://www.linkedin.com/in/navin826/
