@@ -55,7 +55,8 @@ Data Cleaning (Python) → Descriptive Analysis → Actionable Insights
 
 **E. About Me**
 
-Hi, I'm Navin (Bao Vy) – an aspiring Data Analyst passionate about turning raw data into actionable business insights. I’m eager to contribute to data-driven decision making and help organizations translate analytics into business impact. 
+Hi, I'm Navin (Bao Vy) – an aspiring Data Analyst passionate about turning raw data into actionable business insights. 
+I’m eager to contribute to data-driven decision making and help organizations translate analytics into business impact. 
 For more details, please reach out at: 
 
 - 📊 Skills: SQL, Python, Power BI.  
