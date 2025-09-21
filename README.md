@@ -1,11 +1,11 @@
-**HR-Analytics-Employee-Attrition**
+**P2_HR-Analytics-Employee-Attrition**
 
 **A. Project Overview**
 
 - This project analyzes employee attrition in X company.
 - The focus is on identifying key risk factors and providing actionable insights to support HR in improving retention.
 
-![Dashboard Overview](Dashboard/Overview.png)
+![Dashboard Overview](https://github.com/CallmeNavin/P2_HR-Analytics-Employee-Attrition/blob/main/Version%201/Visualization/Main%20Dashboard.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
@@ -19,11 +19,11 @@ _Explore more insights in the full Power BI dashboard_
 
 **Period**
 
-This dataset was last updated around 8 years ago, and reflects historical HR patterns rather than current trends.
+- This dataset was last updated around 8 years ago, and reflects historical HR patterns rather than current trends.
 
 **C. Methodology**
 
-Data Cleaning (Python) → Descriptive Analysis → Actionable Insights
+- Data Cleaning (Python) → Descriptive Analysis → Actionable Insights
 
 **D. Key Findings and Actionable Plans**
 
